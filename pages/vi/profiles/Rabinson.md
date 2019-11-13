@@ -6,7 +6,7 @@
 
 ⏱️ GMT+5.45
 
-### About Me
+# About Me
 I am a former graphics _designer_, _photographer_, _videographer_ and _a youtuber_. I did my Bachelors in Computer Engineering and also Bachelors in Arts.
 I was and still am always fascinated by programming and have decided to switch to programming.
 
